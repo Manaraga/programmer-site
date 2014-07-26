@@ -46,8 +46,8 @@
                     </table>
                 </div>
                 <div id="social">
-                    <a href="#" class="tooltip-test" data-original-title="Facebook"><img src="img/facebook.png"></a>
-                    <a href="#" class="tooltip-test" data-original-title="Google +"><img src="img/google.png"></a>
+                    <a href="https://vk.com/id13632157" class="tooltip-test" data-original-title="Vkontakte"><img src="img/vk.png"></a>
+                    <a href="https://github.com/alexrails" class="tooltip-test" data-original-title="Github"><img src="img/github.png"></a>
                     <a href="#" class="tooltip-test" data-original-title="Twitter"><img src="img/twitter.png"></a>
                     <a href="#" class="tooltip-test" data-original-title="Youtube"><img src="img/youtube.png"></a>
               </div>

@@ -1,9 +1,9 @@
 <div class="row">
     <div class="span4">
-        <h2>Professional profile</h2>
+        <h2>Образование</h2>
     </div>
     <div class="span8">
-        <p>Образование: Белорусский Государственный Университет.</p>
+        <p>Белорусский Государственный Университет.</p>
         <ul>
             <li>Факультет Радиофизики и Компьютерных Технологий.</li>
             <li>Кафедра Информатки и Компьютерных систем.</li>
@@ -19,44 +19,12 @@
         
         <div class="row">
             <div class="span4">
-                <h3>Front End Developer</h3>
-        <h6>Studio Web, Full-Time</h6>
-        <p style="margin-top:40px;"><strong>Period: </strong> July 2001 - Present day</p>
-        <p><strong>Primary functions: </strong>Aliquam porta, elit ac condimentum pretium, sapien quam tempor augue, a placerat enim diam interdum leo.</p>
-        <p><strong>References: </strong>George Smith</p>
-            </div>
-            <div class="span4">
-                <p>Duis eu lectus turpis. Sed a tortor lacus. Nam nec ultricies nunc. Aliquam porta, elit ac condimentum pretium, sapien quam tempor augue, a placerat enim diam interdum leo. Mauris metus metus, sollicitudin eu tincidunt eget, imperdiet dapibus quam.</p>
-        <ul>
-            <li>Vivamus congue massa et diam ullamcorper ultricies.</li>
-            <li>Quisque lobortis feugiat ipsum, lacinia sagittis augue consectetur at.</li>
-            <li>Vestibulum pharetra nisl eros, vel iaculis justo.</li>
-        </ul>
-            </div>
-        </div>
-
-        <hr>
-
-        <div class="row">
-            <div class="span4">
-                <h3>Front End Developer</h3>
-        <h6>Studio Web, Full-Time</h6>
-        <p style="margin-top:40px;"><strong>Period: </strong> July 2001 - Present day</p>
-        <p><strong>Primary functions: </strong>Aliquam porta, elit ac condimentum pretium, sapien quam tempor augue, a placerat enim diam interdum leo.</p>
-        <p><strong>References: </strong>George Smith</p>
-            </div>
-            <div class="span4">
-                <p>Duis eu lectus turpis. Sed a tortor lacus. Nam nec ultricies nunc. Aliquam porta, elit ac condimentum pretium, sapien quam tempor augue, a placerat enim diam interdum leo. Mauris metus metus, sollicitudin eu tincidunt eget, imperdiet dapibus quam.</p>
-        <ul>
-            <li>Vivamus congue massa et diam ullamcorper ultricies.</li>
-            <li>Quisque lobortis feugiat ipsum, lacinia sagittis augue consectetur at.</li>
-            <li>Vestibulum pharetra nisl eros, vel iaculis justo.</li>
-        </ul>
-            </div>
-        </div>
+                <h3>инженер-конструктор</h3>
+        <h6>ОАО"ПЛАНАР"</h6>
+        <p style="margin-top:40px;"><strong>Период: </strong> август 2012г. - август 2014г.</p>
         
-    </div>
-    
+            </div>
+                
 </div>
 <hr>
 <div class="row">

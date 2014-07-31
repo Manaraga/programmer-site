@@ -9,7 +9,7 @@
                 <img src="img/my_blog.png" >
                 </a>
                 <div class="caption">
-                    <h5>Первый проект</h5>
+                    <h5>First project</h5>
                     <p>Пример социальной сети - блога</p>
                     
                 </div>
@@ -30,13 +30,25 @@
 
             <li class="span4">
               <div class="thumbnail">
-                <a href="http://placehold.it/360x268" title="Description of image here">
-                <img src="http://placehold.it/360x268" >
+                <a href="http://tpmlevelup.herokuapp.com/" title="Level Up" target="_blank">
+                <img src="img/levelup.png" >
                 </a>
                 <div class="caption">
-                    <h5>Thumbnail label</h5>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><button class="btn btn-primary btn-mini">Read more</button></p>
+                    <h5>Level Up</h5>
+                    <p>Сайт ежегодных соревнований по ТПМ "LevelUp"</p>
+                    
+                </div>
+              </div>
+            </li>
+						<li class="span4">
+              <div class="thumbnail">
+                <a href="http://tpmlevelup.herokuapp.com/" title="Level Up" target="_blank">
+                <img src="img/levelup.png" >
+                </a>
+                <div class="caption">
+                    <h5>Level Up</h5>
+                    <p>Сайт ежегодных соревнований по ТПМ "LevelUp"</p>
+                    
                 </div>
               </div>
             </li>

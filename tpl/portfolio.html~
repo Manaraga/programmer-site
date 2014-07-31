@@ -54,8 +54,8 @@
             </li>
 						<li class="span4">
               <div class="thumbnail">
-                <a href="http://tpmlevelup.herokuapp.com/" title="Kotiko" target="_blank">
-                <img src="img/kotiko.png" >
+                <a href="http://tpmlevelup.herokuapp.com/" title="Codeacademy" target="_blank">
+                <img src="img/codeacademy.png" >
                 </a>
                 <div class="caption">
                     <h5>I'm in Codeacademy</h5>

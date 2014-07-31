@@ -6,7 +6,7 @@
             <li class="span4">
               <div class="thumbnail">
                 <a href="http://korzun-alex.herokuapp.com/" title="My blog" target="_blank">
-                <img src="public/img/my_blog.png" ><img src="img/github2.png" >
+                <img src="img/my_blog.png" >
                 </a>
                 <div class="caption">
                     <h5>Первый проект</h5>

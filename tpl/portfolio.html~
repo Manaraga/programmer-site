@@ -17,8 +17,8 @@
             </li>
             <li class="span4">
               <div class="thumbnail">
-                <a href="http://placehold.it/360x268" title="Impet">
-                <img src="http://placehold.it/360x268" >
+                <a href="http://impetby.herokuapp.com/" title="Impet" target="_blank">
+                <img src="img/impet.png" >
                 </a>
                 <div class="caption">
                     <h5>Impetby</h5>

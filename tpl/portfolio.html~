@@ -42,12 +42,24 @@
             </li>
 						<li class="span4">
               <div class="thumbnail">
-                <a href="http://tpmlevelup.herokuapp.com/" title="Level Up" target="_blank">
-                <img src="img/levelup.png" >
+                <a href="http://tpmlevelup.herokuapp.com/" title="Kotiko" target="_blank">
+                <img src="img/kotiko.png" >
                 </a>
                 <div class="caption">
-                    <h5>Level Up</h5>
-                    <p>Сайт ежегодных соревнований по ТПМ "LevelUp"</p>
+                    <h5>Kotiko</h5>
+                    <p>Промо страница зоомагазина</p>
+                    
+                </div>
+              </div>
+            </li>
+						<li class="span4">
+              <div class="thumbnail">
+                <a href="http://tpmlevelup.herokuapp.com/" title="Kotiko" target="_blank">
+                <img src="img/kotiko.png" >
+                </a>
+                <div class="caption">
+                    <h5>I'm in Codeacademy</h5>
+                    <p>My skills in codeacademy</p>
                     
                 </div>
               </div>

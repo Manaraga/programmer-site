@@ -46,7 +46,7 @@
                 <td width="25%">Photoshop</td>
                 <td width="25%">
                     <div class="progress progress-info">
-                    <div class="bar" style="width: 90%;"></div>
+                    <div class="bar" style="width: 50%;"></div>
                     </div>
                 </td>
             </tr>
@@ -54,7 +54,7 @@
               <td width="25%">CSS3</td>
               <td width="25%">
                     <div class="progress progress-info">
-                    <div class="bar" style="width: 80%;"></div>
+                    <div class="bar" style="width: 60%;"></div>
                     </div>
               </td>
               <td width="25%">RSPEC</td>
@@ -68,13 +68,13 @@
               <td width="25%">Javascript</td>
               <td width="25%">
                     <div class="progress progress-info">
-                    <div class="bar" style="width: 85%;"></div>
+                    <div class="bar" style="width: 40%;"></div>
                     </div>
               </td>
                 <td width="25%">Gimp</td>
                 <td width="25%">
                     <div class="progress progress-info">
-                    <div class="bar" style="width: 90%;"></div>
+                    <div class="bar" style="width: 50%;"></div>
                     </div>
                 </td>
             </tr>
@@ -83,6 +83,16 @@
               <td width="25%">
                     <div class="progress progress-info">
                     <div class="bar" style="width: 70%;"></div>
+                    </div>
+              </td>
+                <td width="25%">&nbsp;</td>
+                <td width="25%">&nbsp;</td>
+            </tr>
+						<tr>
+              <td width="25%">English</td>
+              <td width="25%">
+                    <div class="progress progress-info">
+                    <div class="bar" style="width: 30%;"></div>
                     </div>
               </td>
                 <td width="25%">&nbsp;</td>
